@@ -2,25 +2,25 @@
 // ***** CURRENT PLUG-INS (alphabetical ordering) *****
 
 // NCI Edit Tab
-https://raw.githubusercontent.com/ncievs/nci-edit-tab/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/nci-edit-tab/master/src/main/resources/prod/update.properties
 
 // NCI Search Tab
-https://raw.githubusercontent.com/ncievs/lucene-search-tab/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/lucene-search-tab/master/src/main/resources/prod/update.properties
 
 // Metaproject Admin
-https://raw.githubusercontent.com/ncievs/metaproject-admin/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/metaproject-admin/master/src/main/resources/prod/update.properties
 
 // Revision History
-https://raw.githubusercontent.com/ncievs/revision-history/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/revision-history/master/src/main/resources/prod/update.properties
 
 // SPARQL Query
-https://raw.githubusercontent.com/ncievs/sparql-query-plugin/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/sparql-query-plugin/master/src/main/resources/prod/update.properties
 
 // EVS History
-https://raw.githubusercontent.com/ncievs/evs-history/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/evs-history/master/src/main/resources/prod/update.properties
 
 // Pellet plugin
-https://raw.githubusercontent.com/ncievs/pellet/master/protege/plugin/update.properties
+https://raw.githubusercontent.com/ncievs/pellet/master/src/main/resources/prod/update.properties
 
 
 
