@@ -20,4 +20,4 @@ https://raw.githubusercontent.com/ncievs/sparql-query-plugin/master/src/main/res
 https://raw.githubusercontent.com/ncievs/evs-history/master/src/main/resources/prod/update.properties
 
 //Curator
-https://cbiit-download.nci.nih.gov/evs/Protege/PluginUpdate/nci-curator/update.properties
+https://raw.githubusercontent.com/ncievs/nci-curator/master/src/main/resources/prod/update.properties
